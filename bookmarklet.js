@@ -15,5 +15,5 @@
             hottestDay = date;
         }
     }
-    console.log( `Найбільш спекотний день: ${hottestDay}, температура: ${maxTemp} °C`);
+    alert( `Найбільш спекотний день: ${hottestDay}, температура: ${maxTemp} °C`);
 })();
